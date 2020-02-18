@@ -1,2 +1,2 @@
 # DevRadar
-Projeto resultado da Semana Omnistack #10
+Projeto de aplicação de cadastro e busca de desenvolvedores nas proximidades.
